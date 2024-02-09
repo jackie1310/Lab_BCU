@@ -1,0 +1,19 @@
+@font-face {
+    font-family: myFirstFont;
+    src: url(../tp_images_fonts/fonts/dayrom.woff);
+}
+body {
+    background-image: url("../tp_images_fonts/images/yellow_background.png");
+    font-family: myFirstFont;
+}
+
+.bridge {
+    background-image: url('../tp_images_fonts/images/sanfrancisco.jpg');
+    background-size: cover;
+    color: #111;
+}
+
+
+.back{
+    width: 1190px;
+}
